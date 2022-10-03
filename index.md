@@ -1,7 +1,7 @@
 # Vedant H. Goradia
 ## CSE 110
 ###### introduction
-** Major: Computer Engineering **
+**Major: Computer Engineering**
 
 ![UCSD logo](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
 
